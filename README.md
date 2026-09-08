@@ -1,5 +1,5 @@
 [README (2).md](https://github.com/user-attachments/files/31974030/README.2.md)
-# E-Commerce Sales, Customer & AI Analytics — Power BI
+# E-Commerce Sales, Customer & AI Analytics - Power BI
 
 ## Project Overview
 
