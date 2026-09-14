@@ -492,7 +492,7 @@ development.
 <img width="1505" height="692" alt="image" src="https://github.com/user-attachments/assets/97e8dbf9-3b54-4e34-911c-9cef424d42a1" />
 
 
-<img width="1422" height="605" alt="image" src="https://github.com/user-attachments/assets/4ba1b168-df83-49e7-8d2a-e5e5e276c5aa" />
+<img width="1213" height="535" alt="image" src="https://github.com/user-attachments/assets/ef84c903-8d0e-454c-aa05-edd7bba0027e" />
 
 
 <img width="1191" height="505" alt="image" src="https://github.com/user-attachments/assets/dbd50812-8a17-43a1-83df-aedc03a26ae8" />
